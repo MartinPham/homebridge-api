@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinpham/homebridge-api.git"
+  },
+  "author": "MartinPham",
+  "version": "1.0.2",
+  "description": "Homebridge API",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "api",
+    "graphql"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "apollo-server": "^2.10.0",
+    "axios": "^0.19.2",
+    "graphql": "^14.6.0"
+  }
+}

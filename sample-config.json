@@ -1,0 +1,11 @@
+{
+	"bridge": {
+		
+	},
+	"api": {
+		"port": 18110,
+		"token": "TOP-SECRET-LOL",
+		"introspection": true,
+		"playground": true
+	}
+}
